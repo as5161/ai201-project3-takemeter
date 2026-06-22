@@ -320,6 +320,7 @@ weighting to get the model to learn at all.
 - `evaluation_results.json` — full metrics for both models
 - `confusion_matrix.png` — fine-tuned model confusion matrix
 - `ai201_project3_takemeter.ipynb` — the Colab notebook (training + baseline + evaluation)
+- `Demo Video` — Watch the 3-5 minute demo here(https://drive.google.com/file/d/140NphXA7qJ4DWsse0apLZ0HNGR60BhAo/view?usp=sharing)
 
 ### Reproduce
 1. Open the notebook in Colab, set runtime to T4 GPU.
